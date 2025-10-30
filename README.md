@@ -34,8 +34,9 @@ It was one of my early coding experiments to understand how buttons, layouts, an
 ## 🚀 How to Run
 
 1. **Clone or download** this repository:
-   ```bash git clone https://github.com/your-username/Tkinter-Calculator.gitOpen the folder in your code editor or terminal.
-    2.Run the app:
+   ```bash
+   git clone https://github.com/Ridhima-sharma09/Tkinter-Calculator.gitOpen the folder in your code editor or terminal.
+    
 
 python calculator_dark.py
 A modern calculator window will appear instantly!
