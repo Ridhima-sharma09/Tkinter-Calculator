@@ -62,5 +62,5 @@ It remains a fun, lightweight project that runs smoothly on any system.
 This project is open-source and available under the MIT License.
 
 ⭐ If you like this project, consider starring the repo — it motivates me to share more of my learning projects!
-   git clone https://github.com/your-username/Tkinter-Calculator.git
+   
 
